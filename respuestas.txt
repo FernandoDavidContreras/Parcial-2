@@ -1,0 +1,19 @@
+¿Qué es GIT?
+Es un gestor de versiones de un programa.
+
+¿Qué es un pull request?
+Es una funcion que nos permite verificar o comparar los cambios.
+
+¿Qué es un commit?
+Es un mensaje que nos indica o nos da una referencia sobre el archivo que fue subido ya sea que haya sido un cambio o un nuevo archivo al repositorio.
+
+¿GIT y GitHub es lo mismo? Explique
+1.GIT es el lenguaje o el programa que ejecuta las acciones que nosotros realizamos.
+
+2.GitHub es un programa basado en la web que nos permite verificar los cambios o acciones que nosotros ejecutemos en GIT osea que es un programa para que visualmente nosotros veamos lo que realizamos y como tenemos organizados nuestros repositorios. Ya que tambien la funcion de este programa es almacenar datos en repositorios.
+
+¿Qué es scrum?
+Es una manera de estructurar el proyecto o gestionarlo en si solo ya que es una herramienta  para la gestion del proyecto.
+
+¿Para qué sirve una metodología ágil de desarrollo?
+Para mejorar el tiempo sobre el desarrollo del programa.
